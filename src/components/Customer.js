@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-
+import {View} from 'react'
 class Customer extends Component {
     render() {
         return (
@@ -10,6 +10,7 @@ class Customer extends Component {
         )
     }
 }
+
 class CustomerProfile extends Component{
     render(){
         return(
